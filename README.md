@@ -1,3 +1,3 @@
 # CLassification Techniques 
-# Logistic Regression
-# Multi Class Logistic Regression
+# Logistic Regression -- LogisticRegression()
+# Multi Class Logistic Regression -- LogisticRegression(multi_class='ovr')
